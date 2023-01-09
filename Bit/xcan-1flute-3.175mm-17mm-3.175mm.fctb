@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "xcan-1flute-3.175mm-17mm-3.175mm",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0,00 mm",
+    "CuttingEdgeHeight": "17,00 mm",
+    "Diameter": "3,14 mm",
+    "Flutes": "0",
+    "Length": "38,52 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3,17 mm"
+  },
+  "attribute": {}
+}
